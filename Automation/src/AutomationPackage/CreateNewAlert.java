@@ -82,7 +82,7 @@ public class CreateNewAlert {
 		}
 		
 		
-		System.out.println("Finished successfully in master2");
+		System.out.println("Process Finished successfully in master2");
 		
 	}
 
